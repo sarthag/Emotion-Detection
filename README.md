@@ -1,5 +1,7 @@
 # Emotion-Detection
-This project is a basic classification project to test the results of 2 different classifier architectures over the fer2013 dataset which contains 48x48 black and white images and details about the emotion expressed in them (7emotions)
+This project is a basic classification project to test the results of 2 different classifier architectures over the fer2013 dataset which contains 48x48 black and white images and details about the emotion expressed in them (7emotions).
+
+Frameworks Used: PyTorch, NumPy, Pandas, Matplotlib.
 
 Preprocessing:
 
